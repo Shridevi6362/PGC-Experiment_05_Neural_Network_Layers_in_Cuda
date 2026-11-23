@@ -105,9 +105,6 @@ First 10 output values (GPU):
 0.498196 0.503101 0.508006 0.512911 0.517814 0.497729 0.502638 0.507548 0.512457 0.517364
 ```
 
-## Execution Output Screenshot
-
-![Program Execution Output](screenshot/output.png)
 
 ## Repository Structure
 
