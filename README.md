@@ -104,10 +104,17 @@ CPU and GPU outputs: MATCH (within tolerance)
 First 10 output values (GPU):
 0.498196 0.503101 0.508006 0.512911 0.517814 0.497729 0.502638 0.507548 0.512457 0.517364
 ```
-## Repository structure
 
+## Execution Output Screenshot
+
+![Program Execution Output](screenshot/output.png)
+
+## Repository Structure
+
+```text
 Experiment5_CUDA/
 ├── screenshot/
 │   └── output.png             # Terminal output screenshot from running neural_network.exe
 ├── README.md                  # Experiment documentation, setup guide, and results
 └── neural_network.cu          # Complete CUDA C++ source code
+```
